@@ -1,0 +1,55 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+   
+}
+.card-img-top {
+    width: 100%;
+    height: 31vw;
+    object-fit: cover;
+}
+#logo{
+    margin-left: 1.5rem;
+}
+.nav-link{
+    font-size: medium;
+    font-weight: 650;
+    
+}
+#menu,#reward , #gift{
+    color: #000;
+}
+#div1{
+    background-color: #d4e9e2;
+}
+.para1{
+    font-size: 1.25rem;
+}
+.head1-div2{
+    font-size: 4rem;
+}
+#div2{
+    background-color: #3d7170;
+}
+.para2{
+    font-size: 1.5rem;
+}
+#button1, #button3{
+    color: #fff;
+    background: transparent;
+    border-color: #fff;
+}
+#div3{
+    background-color: #f4c5a1;
+}
+#button2{
+    color: #1e3932;
+    background: transparent;
+    border-color: #1e3932;
+}
+#div4{
+    background-color: #8b323e;
+}
+#list{
+    padding-top: 20px;
+}
